@@ -1,5 +1,5 @@
 # OS-project-2022-aueb
-collab with https://github.com/Praiven ()
+collab with https://github.com/Praiven 
 
 Εργασία Λ.Σ. - Αναφορά
 
